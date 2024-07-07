@@ -33,11 +33,7 @@ need to make the regression analysis on the intersection of these cases.
 • Support your findings/results/conclusions with figures.
 
 Top 5 Most Differentially Expressed Genes:
-      Hugo_Symbol  Fold Change  Abs Fold Change       P-value
-14249        BAAT     7.983620         7.983620  5.970813e-07
-19155        UMOD    -7.795541         7.795541  8.734004e-13
-18642       FXYD4    -7.729625         7.729625  7.989555e-13
-12591        AQP2    -7.649032         7.649032  7.987607e-13
-17104        ELF5    -7.415541         7.415541  8.353644e-13
+![image](https://github.com/Enas888/Integration-of-Copy-Number-Vartions-and-Gene-Expressions/assets/86245745/cb41c920-33ba-42f4-ac58-7fadd85cd499)
+
 volcano plot:
 ![image](https://github.com/Enas888/Integration-of-Copy-Number-Vartions-and-Gene-Expressions/assets/86245745/93efff71-ef66-443b-a87b-0c774f4ad802)
